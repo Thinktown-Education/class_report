@@ -1,5 +1,5 @@
 # 5月财务月授课学生
-[张宸](#张宸)
+[张宸](#张宸)\
 [陆宏泽](#陆宏泽)
 
 # 张宸
@@ -8,11 +8,11 @@
 
 ## 2023/4/21
 ### 课堂内容
-Class vs Object
-Override的优先级
-Array和ArrayList
-ArrayList的底层是Object
-Recursion的套路
+- Class vs Object
+- Override的优先级
+- Array和ArrayList
+- ArrayList的底层是Object
+- Recursion的套路
 - base case
 - recursive calls
 
