@@ -6,6 +6,27 @@
 - [张宸](#张宸)
 - [陆宏泽](#陆宏泽)
 
+## 俞李菲菲
+督导：曹思佳\
+课程：AP CSP
+
+### 2023/4/29
+#### 课堂内容
+Practice test 1 41-70讲解
+
+#### 课堂练习
+无
+
+#### 课堂练习反馈
+作业正确率80%
+
+#### 课堂表现
+学生虽然有很多猜对的题，但是能够在课上对猜的提问已经是很大的进步了。经过上课讲节课可以发现学生在代码题目上还是有些欠缺。其实很多学生在这一类型的题目都会有问题。一般来说代码题目有两个解题要点：
+1. 某一行代码看不懂的时候可以去看看官方reference sheet, 大概率是哪里漏了
+2. 当整段代码读不清楚的时候建议一行一行的读，代码中的variable可以用笔记下来
+
+作业：Diagnostic Test 2，1-70 题
+
 ## 谭景波
 督导：郭林\
 课程：AP CSP
@@ -30,6 +51,24 @@ Practice test 2，36-70 错题讲解
 
 作业：Diagnostic Test 2，1-70 题
 
+### 2023/4/29
+#### 课堂内容
+Practice test 2 所有coding题
+
+#### 课堂练习
+无
+
+#### 课堂练习反馈
+目前看大致在四分线上，如果解决coding类型的题和MOD operation有机会冲击5分。
+
+#### 课堂表现
+学期末比较忙，学生没能完成上次布置的作业。今天上课就专攻我们上节课发现的问题，也就是coding题。经过本节课做题发现学生有以下几点需要课后再努力复习，已翻译成英文方便学生自己看：
+
+1. MOD MOD MOD, take some time to get ready for remainder operations.
+2. If there is ONE line of code that you don't understand, likely you missed something on the reference sheet. Read the reference sheet before exam is a must.
+3. Make sure you follow through the entire code, if you couldn't do it in your head, write down all the varaibles at every line. Don't assume.
+
+
 ## 余宗霖
 督导：高杨\
 课程：AP CSP
@@ -53,6 +92,25 @@ Practice diagnostic test, 21-70 错题讲解
    5题阅读不认真，没理解题意
 
 下次作业题号别搞混了（做题的时候就写一下题号），不然match答案很尴尬
+
+作业：Practice Test 2, 1-70题，预计2小时\
+教科书打开，翻到目录部分，点击目录末尾的Practice Test 2就可以自动跳到作业部分
+
+### 2023/4/29
+#### 课堂内容
+CPT 修改并提交\
+所有概念回顾
+
+#### 课堂练习
+无
+
+#### 课堂练习反馈
+无
+
+#### 课堂表现
+学生又弄错作业了，上节课的作业白写那么详细了
+
+因为没有作业反馈，这节课很难给学生分析需要着重复习的章节。本节课把csp所有概念全部过了一边，至少保证学生理解每个考点概念。至于如何运用这些概念还是需要学生自觉刷题的。
 
 作业：Practice Test 2, 1-70题，预计2小时\
 教科书打开，翻到目录部分，点击目录末尾的Practice Test 2就可以自动跳到作业部分
@@ -188,6 +246,25 @@ Practice test 1 1-35错题讲解
 free response这块学生就弱一些，编程的语法和逻辑思路似乎没有很系统的复习过，这部分只能靠多练习才能进步
 
 作业：完成上次发的那套题
+
+### 2023/4/29
+#### 课堂内容
+作业讲解
+
+#### 课堂练习
+无
+
+#### 课堂练习反馈
+选择题 9/15
+
+#### 课堂表现
+学生今天明显没睡好，上课人都是呆滞的，和上一次上课比完全就是两个人。年轻人不要熬夜
+
+选择题错的6题中有4题是学生自己可以理解的，另外2题全部和primitive vs reference type有关，这一块上课又着重讲了一次。
+
+学生没来得及写free response, 所以这一块是上课完成的。可以发现frq是学生薄弱环节，建议学生考试前多刷几套frq。college board 上有很多往年的frq可以练手。写完以后可以发给我检查
+
+作业：我发的选择题40道 + 学校里的frq
 
 ## 陆宏泽
 督导: 叶婷婷
