@@ -8,8 +8,8 @@
 
 ### 2023/9/15
 #### 课堂内容
-Unit 0 What is program? What is programming language?
-Unit 1-1 Basic Java Syntax
+- Unit 0 What is program? What is programming language?
+- Unit 1-1 Basic Java Syntax
 
 #### 课堂练习
 无
@@ -24,8 +24,8 @@ Unit 1-1 Basic Java Syntax
 
 ### 2023/9/26
 #### 课堂内容
-Unit 1-2 Variables and Datatypes
-Unit 1-3 Arithmetic Operations
+- Unit 1-2 Variables and Datatypes
+- Unit 1-3 Arithmetic Operations
 
 #### 课堂练习
 无
@@ -46,9 +46,9 @@ Unit 1-3 Arithmetic Operations
 
 ### 2023/9/15
 #### 课堂内容
-Unit 0 What is program? What is programming language?
-Unit 1-1 Basic Java Syntax
-Unit 1-2 Variables and primitive data types.
+- Unit 0 What is program? What is programming language?
+- Unit 1-1 Basic Java Syntax
+- Unit 1-2 Variables and primitive data types.
 
 #### 课堂练习
 无
@@ -63,9 +63,9 @@ Unit 1-2 Variables and primitive data types.
 
 ### 2023/9/22
 #### 课堂内容
-Unit 1-3 Arithmetic Operations
-Unit 3-1 Boolean, if, else, else if
-Unit 3-2 Compound Boolean（代码执行顺序！！）
+- Unit 1-3 Arithmetic Operations
+- Unit 3-1 Boolean, if, else, else if
+- Unit 3-2 Compound Boolean（代码执行顺序！！）
 
 #### 课堂练习
 无
@@ -80,9 +80,9 @@ Unit 3-2 Compound Boolean（代码执行顺序！！）
 
 ### 2023/9/29
 #### 课堂内容
-Unit 4-1 While loop
-Unit 4-2 For loop
-Unit 2-3 Methods
+- Unit 4-1 While loop
+- Unit 4-2 For loop
+- Unit 2-3 Methods
 
 #### 课堂练习
 反转一个integer
