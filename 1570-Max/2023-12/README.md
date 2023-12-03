@@ -45,3 +45,44 @@
 上课表现就不多说了，很好。本节课主要难点有2D的row和col，以及如何使用for和for each分别对2d array进行操作。Inheritance里难点是subclass会自动调用super()
 
 作业: assignment 13
+
+## Kyle
+督导：何李霞\
+课程：AP CSA
+
+### 2023/12/3
+#### 课堂内容
+- Unit 5-2 Non-static vs static, return type
+
+#### 课堂练习
+无
+
+#### 课堂练习反馈
+无
+
+#### 课堂表现
+Kyle同学对于之前学过的很多内容都忘记了，有机会要好好复习。上次的作业没有完成所以今天上课很多时间都花在了作业讲解上面，下次一定要完成作业。作业其实就是最好的复习方法
+
+作业：Assignment 10
+
+## 小Alex
+督导：余正丰\
+课程：AP CSA
+
+### 2023/12/3
+#### 课堂内容
+- Unit 1-3 复习coins题
+- Unit 3-1 if else
+- Unit 3-2 complex boolean 讲到DeMorgan's Law
+
+#### 课堂练习
+无
+
+#### 课堂练习反馈
+无
+
+#### 课堂表现
+小Alex同学上课表现很不错，我提出很多刁钻的问题都能回答正确。讲完概念以后很快就能举一反三做对题目。
+
+作业: assignment 3
+再下一次作业 reverse integer
