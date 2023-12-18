@@ -201,6 +201,24 @@ C++
 
 作业：Assignment 7
 
+### 2023/12/17
+#### 课堂内容
+- Unit 5-1 Array
+- Unit 5-2 For and Array
+
+#### 课堂练习
+无
+
+#### 课堂练习反馈
+无
+
+#### 课堂表现
+1. 上次作业没写，下次上课之前要交给我
+2. 上课表现很好，很聪明，一点就通，还能主动提问
+3. 需要多练习写代码，AP考试一般分数靠白纸手写代码
+
+作业：Assignment 7
+
 ## 王柔兮
 督导：李茜茜\
 课程：AP CSA
@@ -223,7 +241,35 @@ C++
 作业：利用今天上课学过的所有内容，使用java代码完成以下要求
 Find the exact change for 137 cents using quarters, dimes, nickels and cents. Use the least number of coins.
 
-Quarter: 25 cents
-Dime: 10 cents
-Nickel: 5 cents
+Quarter: 25 cents\
+Dime: 10 cents\
+Nickel: 5 cents\
 Cent: 1
+
+
+## 徐梓硕
+督导：郑晓玲\
+课程：AP CSP
+
+### 2023/12/17
+#### 课堂内容
+Unit 1
+- Bit, byte, binary and decimal
+- binary decimal conversion
+- Overflowing and Rounding error
+- Abstraction
+- Text encoding (ASCII, UTF-8)
+- Digital vs Analog
+- Image representation using bitmap(pixel) and RGB, resolution
+- Metadata
+
+#### 课堂练习
+无
+
+#### 课堂练习反馈
+无
+
+#### 课堂表现
+徐梓硕同学上课很认真，会主动提问并且举一反三，目前来看上课节奏没什么问题，AP考试之前应该能讲完所有内容。本节课大部分内容还是需要死记硬背的，所以很难布置作业，建议课后自己复习。
+
+作业：无
