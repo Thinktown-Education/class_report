@@ -254,8 +254,8 @@ C++
 
 ### 2023/12/17
 #### 课堂内容
-- Unit 5-1 Array
-- Unit 5-2 For and Array
+- Unit 6-1 Array
+- Unit 6-2 For and Array
 
 #### 课堂练习
 无
